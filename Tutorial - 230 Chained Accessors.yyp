@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"scripts","path":"scripts/scripts/scripts.yy",},"order":11,},
     {"id":{"name":"Player","path":"objects/Player/Player.yy",},"order":1,},
     {"id":{"name":"Room","path":"rooms/Room/Room.yy",},"order":0,},
   ],
